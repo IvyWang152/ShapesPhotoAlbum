@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="visualAlbum:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/visualAlbum_jar</output-path>
+    <root id="archive" name="visualAlbum.jar">
+      <element id="module-output" name="visualAlbum" />
+    </root>
+  </artifact>
+</component>
